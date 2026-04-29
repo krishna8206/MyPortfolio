@@ -4,12 +4,12 @@ import { ExternalLink, Folder } from 'lucide-react';
 
 const Projects = () => {
     const projects = [
-        {
-            title: 'IdharUdhar',
-            description: 'A platform for local services and connections.',
-            tags: ['React', 'Node.js', 'MongoDB', 'Tailwind'],
-            link: 'https://idharudhar.co/'
-        },
+        // {
+        //     title: 'IdharUdhar',
+        //     description: 'A platform for local services and connections.',
+        //     tags: ['React', 'Node.js', 'MongoDB', 'Tailwind'],
+        //     link: 'https://idharudhar.co/'
+        // },
         {
             title: 'Circle',
             description: 'Social networking application for communities.',
