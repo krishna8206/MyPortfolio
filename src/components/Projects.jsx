@@ -20,13 +20,25 @@ const Projects = () => {
             title: 'Gomel Cars',
             description: 'Car rental and booking platform.',
             tags: ['React', 'Express', 'Stripe', 'Google Maps API'],
-            link: 'https://gomelcars.com'
+            link: 'https://gomel-frontend.vercel.app/'
         },
         {
             title: 'SEUnits',
             description: 'Enterprise resource planning for manufacturing units.',
             tags: ['Full Stack', 'Dashboard', 'Analytics'],
-            link: 'https://seunits.com'
+            link: 'https://seu-nine.vercel.app/'
+        },
+        {
+            title: 'A One Profile',
+            description: 'A professional business website for CNC plasma and laser cutting services, showcasing offerings, gallery, and contact features.',
+            tags: ['React', 'Tailwind CSS'],
+            link: 'https://a-one-profile.vercel.app/'
+        },
+        {
+            title: 'Radhe Krupa Gold',
+            description: 'Designed and developed a responsive gold coin e-commerce platform featuring elegant product displays, bulk order functionality, and user-friendly navigation.',
+            tags: ['React', 'Tailwind CSS'],
+            link: 'https://radha-krupa-gold-6cjk.vercel.app/'
         }
     ];
 
